@@ -1,0 +1,64 @@
+.container{
+    width: 378px;
+    height: 274px;
+    border: 1px rgba(224, 224, 224, 1) solid;
+    position: relative;
+    top: 142px;
+    left: 451px;
+}
+.email{
+    color: rgba(97, 97, 97, 1);
+    font-weight: 500;
+    font-size: 16px;
+    
+   }
+   .email1{
+    width: 315px;
+    height: 45px;
+border-radius: 10px;
+    border: 1px 
+    rgba(224, 224, 224, 1) solid;
+   }
+   .email1::placeholder{
+    color: 
+    rgba(158, 158, 158, 1);
+    
+   }
+   .email1:hover{
+    border-color: rgba(187, 180, 0, 1);
+   }
+.password{
+    color: rgba(97, 97, 97, 1);
+    font-weight: 500;
+    font-size: 16px;
+}
+.password1{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px rgba(224, 224, 224, 1) solid;
+}
+.password1::placeholder{
+    color: rgba(158, 158, 158, 1);
+}
+.password1:hover {
+   border-color:  rgba(187, 180, 0, 1);
+}
+button{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: rgba(255, 212, 58, 1);
+    font-weight: 500;
+    font-size: 15px; margin-top: 10px;
+}
+
+button:hover{
+    background-color: 
+    rgba(187, 180, 0, 1);
+    color: rgba(124, 0, 0, 1);
+   }
+   form{
+  position: absolute;
+  margin-left:   30px;
+   }
